@@ -15,8 +15,3 @@ The main features that have currently been implemented are:
 ![](https://github.com/hamishwillee/django_local_library/blob/master/catalog/static/images/local_library_model_uml.png)
 
 
-
-
-
-
-For more information see the associated [MDN tutorial home page](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website).
